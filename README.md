@@ -1,6 +1,6 @@
 # IOS-101-prework# Prework - *ServeHub*
 
-Submitted by: ** Min Aung Zaw **
+Submitted by: **Min Aung Zaw**
 
 ServeHub is your gateway to making a positive impact in your community and beyond. Whether you're passionate about helping those in need, contributing to environmental causes, or sharing your skills with non-profits, my app connects you with meaningful volunteering opportunities that align with your interests and schedule.
 
